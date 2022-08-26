@@ -1,4 +1,4 @@
-// A program to count the occurrence of a digit in a number.
+// A program to count the occurrences of a digit in a number.
 
 import java.util.Scanner;
 
